@@ -1,0 +1,23 @@
+projects:
+- title: "Leo Messi Foundation"
+  subtitle: "Philanthropic Initiative"
+  date: "2007 - Present"
+  details: |
+    Founded the Leo Messi Foundation to support access to education, health, and sports 
+    for children and vulnerable communities around the world. 
+    Partnered with UNICEF and multiple NGOs to expand global outreach and impact.
+  links:
+    - title: Official Foundation Website
+      url: https://fundacionleomessi.org/
+      icon: fas fa-globe
+
+- title: "Messi x Adidas Collaboration"
+  subtitle: "Adidas Brand Ambassador"
+  date: "2006 - Present"
+  details: |
+    Long-term collaboration with Adidas to design signature boots and apparel lines. 
+    Developed the ‘Adidas Messi’ collection, merging innovation, performance, and identity. 
+  links:
+    - title: Adidas Messi Collection
+      url: https://www.adidas.com/us/messi
+      icon: fab fa-adidas

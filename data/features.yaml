@@ -1,0 +1,78 @@
+about:
+  name: Lionel Andrés Messi
+  tagline: Professional Footballer
+  phone: "+1 8055 123 456"
+  email: leo@fcb.com
+  links:
+    - title: /in/lionelmessi
+      url: https://www.linkedin.com/in/lionelmessi
+      icon: fab fa-linkedin
+    - title: leomessi
+      url: https://www.instagram.com/leomessi
+      icon: fab fa-instagram
+    - title: leomessi
+      url: https://twitter.com/TeamMessi
+      icon: fab fa-twitter
+    - title: Official Website
+      url: https://www.leomessi.com
+      icon: fas fa-globe
+  details: |
+    Professional footballer with over two decades of top-tier experience in international football. 
+    Renowned for creativity, vision, and leadership on and off the field. 
+    Dedicated to excellence, teamwork, and inspiring younger generations through performance and discipline.
+
+    Captain of Argentina National Team, FIFA World Cup 2022 Champion, and 8-time Ballon d’Or winner.
+
+
+skills:
+  - groupName: Technical & Tactical
+    list:
+      - Dribbling - Passing - Finishing
+      - Vision - Ball Control - Free Kicks
+
+  - groupName: Leadership & Strategy
+    list:
+      - Team Captaincy - Mentoring - Communication
+      - Tactical Awareness - Game Reading
+
+languages:
+  - name: Spanish
+    level: Native
+
+  - name: English
+    level: Professional
+
+  - name: Catalan
+    level: Fluent
+
+awards:
+  - title: "Ballon d’Or"
+    date: "2009–2023"
+    subtitle: "8-time Winner"
+    links:
+      - title: Official FIFA Profile
+        url: https://www.fifa.com/fifaplus/en/players/lionel-messi
+        icon: fas fa-trophy
+        prefix: "See on "
+
+  - title: "FIFA World Cup Champion"
+    date: "2022"
+    subtitle: "Argentina National Team Captain"
+    links:
+      - title: World Cup 2022 Overview
+        url: https://www.fifa.com/worldcup/
+        icon: fas fa-globe
+        prefix: "Details: "
+
+certificates:
+  - title: "FIFA Professional License"
+    subtitle: Fédération Internationale de Football Association (FIFA)
+    date: "2023"
+    link: https://www.fifa.com/
+
+  - title: "UEFA Leadership in Football"
+    subtitle: UEFA
+    date: "2023"
+    link: https://www.uefa.com/
+
+interests: ["Winning", "FC Gaming", "Philanthropy", "Fitness"]

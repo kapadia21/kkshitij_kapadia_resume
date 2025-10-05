@@ -1,0 +1,30 @@
+- company: Inter Miami CF
+  roles:
+    - role: Captain & Forward
+      details: |
+        Leading Inter Miami in Major League Soccer since 2023, contributing as both player and mentor. 
+        Guided the team to its first-ever Leagues Cup victory and elevated the club’s international profile. 
+        Responsible for on-field leadership, goal creation, and mentoring emerging talents.
+      date: 07.2023 - Present
+
+- company: Paris Saint-Germain (PSG)
+  page: 1
+  roles:
+    - role: Forward
+      tools: Ligue 1, UEFA Champions League
+      details: |
+        Played two seasons with PSG, helping secure consecutive Ligue 1 titles.
+        Collaborated with global talents like Neymar Jr. and Kylian Mbappé to deliver dynamic attacking performances. 
+        Demonstrated adaptability in a new football culture and continued to produce goals and assists at an elite level.
+      date: 08.2021 - 06.2023
+
+- company: FC Barcelona
+  page: 1
+  roles:
+    - role: Captain & Forward
+      tools: La Liga, UEFA Champions League, Copa del Rey
+      details: |
+        Represented FC Barcelona for over two decades, becoming the club’s all-time leading scorer with 672 goals in 778 appearances.
+        Captained the team to multiple La Liga, Copa del Rey, and UEFA Champions League titles.
+        Played a pivotal role in defining the club’s modern era, combining vision, creativity, and leadership.
+      date: 2000 - 2021
